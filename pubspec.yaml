@@ -1,0 +1,35 @@
+name: yemek_siparis_uygulamasi
+description: Flutter Bootcamp Bitirme Projesi
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.3.3
+  http: ^0.13.4
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+
+  fonts:
+    - family: Dongle
+      fonts:
+        - asset: fonts/dongle/Dongle-Regular.ttf
+        - asset: fonts/dongle/Dongle-Bold.ttf
+          weight: 700

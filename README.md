@@ -3,7 +3,7 @@
 Flutter Bootcamp Bitirme Projesi - Yemek Siparis Uygulamasi
 
 ## ScreenShots
-![screenshot](https://github.com/gozkamanberkay/Food-Delivery-App/raw/master/screenshots/HomePage.png width="1000" height="790")
+![screenshot](https://github.com/gozkamanberkay/Food-Delivery-App/raw/master/screenshots/HomePage.png)
 
 ![screenshot](https://github.com/gozkamanberkay/Food-Delivery-App/raw/master/screenshots/DetailPage.png)
 

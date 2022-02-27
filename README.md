@@ -1,7 +1,9 @@
 # Food_Delivery_App
 
-Flutter Bootcamp Bitirme Projesi
+Flutter Bootcamp Bitirme Projesi - Yemek Siparis Uygulamasi
 
-## Getting Started
+## ScreenShot
+![screenshot](https://github.com/berkaygozkaman/Food-Delivery-App/raw/master/screenshots/HomePage.png)
+![screenshot](https://github.com/berkaygozkaman/Food-Delivery-App/raw/master/screenshots/DetailPage.png)
+![screenshot](https://github.com/berkaygozkaman/Food-Delivery-App/raw/master/screenshots/ShoppingCartPageWithFoods.png)
 
-This project is a starting point for a Flutter application.
